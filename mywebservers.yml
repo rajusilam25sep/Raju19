@@ -1,7 +1,7 @@
 ---
 - hosts: all
   become: yes
-  taskst: 
+  tasks: 
   - name: in this tasks , i want install apache2 webservers 
     apt:
       name: apache2
