@@ -8,4 +8,4 @@
 
   - name: i want to debug first tasks result
     debug:
-       msg; "{{myfirsttasksresult}}"
+       msg: "{{myfirsttasksresult}}"
